@@ -1,10 +1,6 @@
 import requests
+import keys
 
-paramters = {
-    "ts":1,
-    "apikey":"6b2b4e4dad645c82c15769043f414a81",
-    "hash":"f58e572eaa92e2adb3108bd919285ac9",
-}
 
 resultado = ""
 
